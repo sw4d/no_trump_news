@@ -1,5 +1,6 @@
 ---
 title: "Monday"
+layout: "none"
 ---
 
 - [World Central Kitchen says it will resume operations in Gaza](https://www.npr.org/2024/04/28/1247727654/world-central-kitchen-gaza-israel)
