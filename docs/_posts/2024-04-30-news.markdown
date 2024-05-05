@@ -1,12 +1,10 @@
 ---
-title: "Tuesday"
+title: "Sunday"
 layout: "none"
 ---
 
-- [Less alcohol, or none at all, is one path to better health](https://apnews.com/article/alcohol-drinking-health-sober-dry-january-6d11c7ebb74b6aa38e82500d91943a14)
-- [Gangsters, Money and Murder: How Chinese Organized Crime Is Dominating America’s Illegal Marijuana Market](https://www.propublica.org/article/chinese-organized-crime-us-marijuana-market)
-- [As famine looms in Sudan, the hungry eat soil and leaves](https://www.reuters.com/investigates/special-report/sudan-politics-hunger-aid/)
-- [Revealed: Tyson Foods dumps millions of pounds of toxic pollutants into US rivers and lakes](https://www.theguardian.com/environment/2024/apr/30/tyson-foods-toxic-pollutants-lakes-rivers)
-- [Northwestern University reaches agreement with protesters](https://www.chicagotribune.com/2024/04/29/northwestern-university-reaches-agreement-with-protesters/)
-- [Why Your Big Sister Resents You](https://www.nytimes.com/2024/04/15/well/family/birth-order-siblings.html?smid=nytcore-ios-share&referringSource=articleShare)
-- [Crickets from Chirp Systems in Smart Lock Key Leak](https://krebsonsecurity.com/2024/04/crickets-from-chirp-systems-in-smart-lock-key-leak/)
+- [Israeli police raid Al Jazeera after shutdown order](https://www.reuters.com/world/middle-east/israeli-cabinet-moves-close-al-jazeeras-local-operations-2024-05-05/)
+- [Ten Years After the Flint Water Crisis, Distrust and Anger Linger](https://www.propublica.org/article/flint-michigan-water-crisis-ten-years-after)
+- [Cubans lured to Russian army by high pay and passports](https://www.bbc.com/news/world-europe-68949298)
+- [Meet the Rebel Alliance Taking On the Texas History Establishment](https://www.texasmonthly.com/news-politics/alliance-for-texas-history-rival-tsha/)
+- [Northwestern University reaches agreement with protesters](https://www.chicagotribune.com/2024/04/29/
