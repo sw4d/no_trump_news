@@ -1,0 +1,9 @@
+---
+title: "Sunday"
+layout: "none"
+---
+
+- [A fentanyl antidote is saving lives. But it isn’t ending the fentanyl crisis](https://www.reuters.com/investigates/special-report/fentanyl-ohio/)
+- [U.S. ship shoots down jet in friendly fire over Red Sea, military says](https://www.washingtonpost.com/national-security/2024/12/22/friendly-fire-eject-hornet-redsea/)
+- [Turkiye FM meets Syria’s new leader, calls for lifting of global sanctions](https://www.aljazeera.com/news/2024/12/22/turkiye-fm-meets-syrias-new-leader-calls-for-lifting-of-global-sanctions)
+- [China: US is ‘playing with fire’ with latest military aid for Taiwan](https://www.politico.com/news/2024/12/22/china-us-is-playing-with-fire-with-latest-military-aid-for-taiwan-00195831)
