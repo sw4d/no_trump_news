@@ -1,10 +1,10 @@
 ---
-title: "Sunday"
+title: "Monday"
 layout: "none"
 ---
 
-- [A fentanyl antidote is saving lives. But it isn’t ending the fentanyl crisis](https://www.reuters.com/investigates/special-report/fentanyl-ohio/)
-- [U.S. ship shoots down jet in friendly fire over Red Sea, military says](https://www.washingtonpost.com/national-security/2024/12/22/friendly-fire-eject-hornet-redsea/)
-- [Turkiye FM meets Syria’s new leader, calls for lifting of global sanctions](https://www.aljazeera.com/news/2024/12/22/turkiye-fm-meets-syrias-new-leader-calls-for-lifting-of-global-sanctions)
-- [China: US is ‘playing with fire’ with latest military aid for Taiwan](https://www.politico.com/news/2024/12/22/china-us-is-playing-with-fire-with-latest-military-aid-for-taiwan-00195831)
-- [U.S. Senator Urges EPA to Release “Science-Based” Report on Formaldehyde Health Risks](https://www.propublica.org/article/formaldehyde-epa-blumenthal)
+- [Syrians can finally tell their stories about Assad's chemical attacks](https://www.npr.org/2024/12/17/nx-s1-5230462/syria-bashar-assad-chemical-weapons)
+- [Starbucks workers expand strike in US cities, including New York](https://www.reuters.com/business/retail-consumer/starbucks-workers-expand-strike-us-cities-including-new-york-2024-12-22/)
+- [Schools Squander Millions on ‘Bullet-Proof’ Glass. It Doesn’t Work.](https://www.wsj.com/us-news/education/school-shootings-security-protection-failure-9cda35d1?st=hvn5dr&reflink=desktopwebshare_permalink)
+- [A board game born in Mexican prisons is bringing together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
+- [Robot taxi riders in San Francisco targeted with a new form of harassment](https://www.washingtonpost.com/technology/2024/12/22/waymo-robotaxi-passengers-harassment/)
