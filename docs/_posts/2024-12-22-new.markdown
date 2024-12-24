@@ -1,10 +1,10 @@
 ---
-title: "Monday"
+title: "Tuesday"
 layout: "none"
 ---
 
-- [Syrians can finally tell their stories about Assad's chemical attacks](https://www.npr.org/2024/12/17/nx-s1-5230462/syria-bashar-assad-chemical-weapons)
-- [Starbucks workers expand strike in US cities, including New York](https://www.reuters.com/business/retail-consumer/starbucks-workers-expand-strike-us-cities-including-new-york-2024-12-22/)
-- [Schools Squander Millions on ‘Bullet-Proof’ Glass. It Doesn’t Work.](https://www.wsj.com/us-news/education/school-shootings-security-protection-failure-9cda35d1?st=hvn5dr&reflink=desktopwebshare_permalink)
-- [A board game born in Mexican prisons is bringing together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
-- [Robot taxi riders in San Francisco targeted with a new form of harassment](https://www.washingtonpost.com/technology/2024/12/22/waymo-robotaxi-passengers-harassment/)
+- [Insurance and Taxes Now Cost More Than Mortgages for Many Homeowners](https://www.wsj.com/economy/housing/home-insurance-property-tax-vs-mortgage-cost-43ab76ed?st=S9QsHW&reflink=desktopwebshare_permalink)
+- [How one man became a Ukrainian traitor and Russian spy](https://www.reuters.com/world/europe/how-one-man-became-ukrainian-traitor-russian-spy-2024-12-24/)
+- [NORAD’s Santa tracker was a Cold War morale boost. Now it attracts millions of kids](https://apnews.com/article/norad-santa-tracker-2024-christmas-eve-c37fd5c62b2443500f462757530fa8f6)
+- [Ken Paxton blocks death row inmate Robert Roberson from testifying at Texas Capitol](https://www.kut.org/politics/2024-12-20/robert-roberson-ken-paxton-death-row-inmate)
+- [‘Need to do some norm changing’: Granger’s case spurs renewed debate over ailing lawmakers](https://www.politico.com/news/2024/12/23/granger-case-debate-lawmakers-00195949)
