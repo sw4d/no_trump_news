@@ -8,3 +8,4 @@ layout: "none"
 - [NORAD’s Santa tracker was a Cold War morale boost. Now it attracts millions of kids](https://apnews.com/article/norad-santa-tracker-2024-christmas-eve-c37fd5c62b2443500f462757530fa8f6)
 - [Ken Paxton blocks death row inmate Robert Roberson from testifying at Texas Capitol](https://www.kut.org/politics/2024-12-20/robert-roberson-ken-paxton-death-row-inmate)
 - [‘Need to do some norm changing’: Granger’s case spurs renewed debate over ailing lawmakers](https://www.politico.com/news/2024/12/23/granger-case-debate-lawmakers-00195949)
+- [How to Lose a Fortune with Just One Bad Click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/#more-69474)
