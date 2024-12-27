@@ -1,11 +1,11 @@
 ---
-title: "Tuesday"
+title: "Friday"
 layout: "none"
 ---
 
-- [Insurance and Taxes Now Cost More Than Mortgages for Many Homeowners](https://www.wsj.com/economy/housing/home-insurance-property-tax-vs-mortgage-cost-43ab76ed?st=S9QsHW&reflink=desktopwebshare_permalink)
-- [How one man became a Ukrainian traitor and Russian spy](https://www.reuters.com/world/europe/how-one-man-became-ukrainian-traitor-russian-spy-2024-12-24/)
-- [NORAD’s Santa tracker was a Cold War morale boost. Now it attracts millions of kids](https://apnews.com/article/norad-santa-tracker-2024-christmas-eve-c37fd5c62b2443500f462757530fa8f6)
-- [Ken Paxton blocks death row inmate Robert Roberson from testifying at Texas Capitol](https://www.kut.org/politics/2024-12-20/robert-roberson-ken-paxton-death-row-inmate)
-- [‘Need to do some norm changing’: Granger’s case spurs renewed debate over ailing lawmakers](https://www.politico.com/news/2024/12/23/granger-case-debate-lawmakers-00195949)
-- [How to Lose a Fortune with Just One Bad Click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/#more-69474)
+- [NATO to boost Baltic Sea presence after power, internet cable damage](https://www.reuters.com/world/europe/estonias-navy-protect-baltic-sea-power-cable-2024-12-27/)
+- [‘Modern slavery’: Trapped in Iraq, Nigerian women cry out for help](https://www.aljazeera.com/features/2024/12/27/modern-slavery-trapped-in-iraq-nigerian-women-cry-out-for-help)
+- [Texas lawmaker files bill to reduce “forever chemicals” in sewage-based fertilizer](https://www.texastribune.org/2024/12/20/texas-pfas-forever-chemicals-biosolids-fertilizer-legislation/)
+- [10-year Treasury yield back above 4.6% to end the holiday week](https://www.nbclosangeles.com/news/business/money-report/10-year-treasury-yield-back-above-4-6-after-mixed-jobless-claims-data/3589938/)
+- [Thailand Bans Advertising for Toddler Milk](https://www.propublica.org/article/thailand-bans-advertising-toddler-milk)
+- [Nasa makes history with closest-ever approach to Sun](https://www.bbc.com/news/articles/cgrwdxpljyxo)
