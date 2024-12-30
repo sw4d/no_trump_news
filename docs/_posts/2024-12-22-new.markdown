@@ -1,11 +1,9 @@
 ---
-title: "Friday"
+title: "Monday"
 layout: "none"
 ---
 
-- [NATO to boost Baltic Sea presence after power, internet cable damage](https://www.reuters.com/world/europe/estonias-navy-protect-baltic-sea-power-cable-2024-12-27/)
-- [‘Modern slavery’: Trapped in Iraq, Nigerian women cry out for help](https://www.aljazeera.com/features/2024/12/27/modern-slavery-trapped-in-iraq-nigerian-women-cry-out-for-help)
-- [Texas lawmaker files bill to reduce “forever chemicals” in sewage-based fertilizer](https://www.texastribune.org/2024/12/20/texas-pfas-forever-chemicals-biosolids-fertilizer-legislation/)
-- [10-year Treasury yield back above 4.6% to end the holiday week](https://www.nbclosangeles.com/news/business/money-report/10-year-treasury-yield-back-above-4-6-after-mixed-jobless-claims-data/3589938/)
-- [Thailand Bans Advertising for Toddler Milk](https://www.propublica.org/article/thailand-bans-advertising-toddler-milk)
-- [Nasa makes history with closest-ever approach to Sun](https://www.bbc.com/news/articles/cgrwdxpljyxo)
+- [Exclusive: The Russian billionaires whose chemical factories fuel Russia's war machine](https://www.reuters.com/world/europe/russian-billionaires-whose-chemical-factories-fuel-russias-war-machine-2024-12-30/)
+- [11 facts about Jimmy Carter that may surprise you](https://www.washingtonpost.com/nation/2024/12/29/jimmy-carter-facts-surprising/)
+- ['He was an incurable romantic': The boy who lived a secret life in World of Warcraft](https://www.bbc.com/culture/article/20241024-the-remarkable-story-of-the-boy-who-lived-a-secret-life-in-world-of-warcraft)
+- [The priceless Lebanon heritage sites destroyed by Israeli bombing](https://www.ft.com/content/2715cb60-25e4-49eb-8707-38f70ddaee40)
